@@ -1,0 +1,25 @@
+body{
+    background-image: url(pics/bg2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.box1{
+  
+  display: flex;
+  justify-content: space-between;
+}
+h1{
+font-size:xx-large;
+}
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;   
+}
+.icon{
+    position: relative;
+}
+.icon img{
+    padding: 40px;
+}
